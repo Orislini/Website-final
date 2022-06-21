@@ -1,0 +1,19 @@
+
+html{
+  display: flex;
+  align-items: center;
+  
+}
+ img{
+   height: 50%;
+   width: 50%
+      }
+img1{
+  height: 75%; 
+  width: 75%
+
+  
+lista {
+  list-style-type: square;
+  
+}
